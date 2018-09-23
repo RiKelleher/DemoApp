@@ -1,3 +1,3 @@
 DemoApps file1.txt
 
-upgraded to version 2
+upgraded to version 2.0
